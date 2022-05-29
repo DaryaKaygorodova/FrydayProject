@@ -1,0 +1,9 @@
+﻿Hello
+How are you?
+Were you are?
+What time is it?
+Wake up
+Show commands
+Hide commands
+Stop speaking
+Stop listening

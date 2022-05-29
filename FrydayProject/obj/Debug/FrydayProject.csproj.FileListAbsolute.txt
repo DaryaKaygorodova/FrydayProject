@@ -1,0 +1,12 @@
+C:\Users\dkayg\source\repos\FrydayProject\FrydayProject\obj\Debug\FrydayProject.csproj.AssemblyReference.cache
+C:\Users\dkayg\source\repos\FrydayProject\FrydayProject\obj\Debug\FrydayProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\dkayg\source\repos\FrydayProject\FrydayProject\obj\Debug\FrydayProject.EnterForm.resources
+C:\Users\dkayg\source\repos\FrydayProject\FrydayProject\obj\Debug\FrydayProject.Properties.Resources.resources
+C:\Users\dkayg\source\repos\FrydayProject\FrydayProject\obj\Debug\FrydayProject.csproj.GenerateResource.cache
+C:\Users\dkayg\source\repos\FrydayProject\FrydayProject\obj\Debug\FrydayProject.csproj.CoreCompileInputs.cache
+C:\Users\dkayg\source\repos\FrydayProject\FrydayProject\bin\Debug\FrydayProject.exe.config
+C:\Users\dkayg\source\repos\FrydayProject\FrydayProject\bin\Debug\FrydayProject.exe
+C:\Users\dkayg\source\repos\FrydayProject\FrydayProject\bin\Debug\FrydayProject.pdb
+C:\Users\dkayg\source\repos\FrydayProject\FrydayProject\obj\Debug\FrydayProject.exe
+C:\Users\dkayg\source\repos\FrydayProject\FrydayProject\obj\Debug\FrydayProject.pdb
+C:\Users\dkayg\source\repos\FrydayProject\FrydayProject\obj\Debug\FrydayProject.MainFrame.resources
