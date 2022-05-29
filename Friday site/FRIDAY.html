@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Friday</title>
+    <link href="https://fonts.googleapis.com/css?family=Comfortaa:700" rel="stylesheet">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="fraiday.html">
+</head>
+<body>
+    <header>
+    <img class="img" src="images/friday.png"/>
+    <div class="menu_top">
+        <div class="header_item"><a href="">Компания</a></div>
+        <div  class="header_item"><a href="">Функции</a></div>
+        <div  class="header_item"><a href="">Преимущества</a></div>
+        <div  class="header_item"><a href="">Поддержка</a></div>
+    </div>  
+    <a href="fraiday.html"><button class="button1" role="button">Регистрация</button></a>
+   
+</header>
+    <img class="image1" src="images/1.png"/>
+    <div class="wavy">
+        <span style="--i:11; color: blue; font-size: 50px; font-weight: 500;" >F.</span>
+        <span style="--i:12; color: blue; font-size: 50px; font-weight: 500;">R.</span>
+        <span style="--i:13; color: blue; font-size: 50px; font-weight: 500;">I.</span>
+        <span style="--i:14; color: blue; font-size: 50px; font-weight: 500;">D.</span>
+        <span style="--i:15; color: blue; font-size: 50px; font-weight: 500;">A.</span>
+        <span style="--i:16; color: blue; font-size: 50px; font-weight: 500;">Y.</span>
+    </div>
+    <h1 class="h7">Динамическая система обработки речевых запросов и выполнения команд</h1>
+    <h1 class="h8">Многофункциональная, вопрос-ответная система</h1>
+    <button class="button-86" role="button">Начали !</button>
+    <h1 class="h9">Who is F.R.I.D.A.Y?</h1>
+    <div class="red">
+        <h10>Высокотехнологичная система, которая доступна даже людям с ограниченными возможностями</h10> <br>
+        <h11>Собрав в себе множество технологий, таких как искусственный интеллект, анализ данных, синтез и распознование речи F.R.I.D.A.Y может понимать Вас, отвечать на вопросы,
+             управлять производственными процессами, вашим домом, а также помогать в больницах, в государственных учреждениях
+        </h11>
+        </div>
+    <h1 class="h12">Функции системы</h1>
+
+    <img class="image2" src="images/2.png"/>
+    <img class="image3" src="images/2.png"/>
+    <img class="image4" src="images/2.png"/>
+    <img class="image5" src="images/2.png"/>
+    <img class="image6" src="images/8.png"/>
+    <img class="image7" src="images/5.png"/>
+    <img class="image8" src="images/6.png"/>
+    <img class="image9" src="images/7.png"/>
+    <img class="image10" src="images/9.png"/>
+    <img class="image11" src="images/9.png"/>
+    <img class="image12" src="images/9.png"/>
+    <img class="image13" src="images/9.png"/>
+    <h1 class="h13">Управление домашним/промышленным оборудованием с помощью голосового управления</h1>
+    <h1 class="h14">Оперативное оповещение о состоянии дома/производства</h1>
+    <h1 class="h15">Речевое оповещение персонала о событиях (отказ оборудования, пожарная опасность и т.д.)</h1>
+    <h1 class="h16">Вопрос-ответная система с накоплением опыта, режимов работы с применением ИИ</h1>
+
+    <h1 class="h17">Преимущества F.R.I.D.A.Y:</h1>
+ <img class="image14" src="images/10.png"/> 
+    <img class="image14" src="images/10.png"/>
+    <img class="image15" src="images/11.png"/>
+    <img class="image16" src="images/12.png"/>
+    <img class="image17" src="images/13.png"/>
+    <img class="image18" src="images/14.png"/>
+    <img class="image19" src="images/15.png"/>
+    <h1 class="h18">Оперативный мониторинг и управление производством</h1>
+    <h1 class="h19">Экологический мониторинг</h1>
+    <h1 class="h20">Экономия энергоресурсов</h1>
+    <h1 class="h21">Многофункциональная система</h1>
+    <h1 class="h22">Доступно людям с ограниченными возможностями</h1>
+    <h1 class="h23">Возможность интеграции с существующими системами управления и мониторинга</h1>
+    <div class="bubble" style=" position: absolute; width: 370px;height: 200px;left: 60px;top: 1000px;">
+        <h1 style="text-align:center"> F.R.I.D.A.Y.</h1>
+    </div>
+    <img class="image20" src="images/20.png" style="width:350px"/>
+    <img class="image21" src="images/friday.png"/>
+    <h1 class="h24">The <span style="color:#001FC0;font-size:20px;">F.R.I.D.A.Y. company</span> </h1>
+    <img class="image22" src="images/25.png"/>
+    <img class="image23" src="images/26.png"/>
+    <img class="image24" src="images/27.png"/>
+    <img class="image25" src="images/28.png"/>
+    <img class="image30" src="images/30.png"/>
+    <h1 class="h25">© 2022 F.R.I.D.A.Y, Inc. F.R.I.D.A.Y - многофункциональная система, Inc.</h1>
+    <script>
+        $(document).ready(function () {
+        var text = $("h10").text();
+        var newtext = " <h11> ";
+        var newchar = " </h11><h11> ";
+        newtext += text.split(' ').join(newchar);
+        $("h10").html(newtext);
+        $("h11").hover(function () {
+        $(this).css({
+        "background-color": "unsent",
+        "color": "#001FC0"
+        });
+        }, function () {
+        $(this).css({
+        "background-color": "unset",
+        "color": "#067e456"
+        });
+        });
+        });
+        </script>
+        </body>
+</html>
